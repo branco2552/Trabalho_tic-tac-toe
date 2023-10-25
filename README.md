@@ -9,7 +9,7 @@ Trabalho para o dia 24/10/2023.
 
 ### Como executar?
 
-Para executar o arquivo você precisa ter o Python instalado. Ou executalo pelo terminal SHELL no replit.com
+Para executar o arquivo você precisa ter o Python instalado. Ou executalo pelo terminal SHELL no [`replit.com`](https://replit.com/@BryanCropalato/TrabalhodeIAJogoDaVelha)
 
 #
 #### Feito por Bruno/Maple
